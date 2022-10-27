@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://cinemapara-back.sahilmehra23.repl.co/movies/) 
 1. Git Clone
 
 ```
-git clone
+git clone https://github.com/Sahilmehra23/CinemaPara-SD
 ```
 
 2. Backend setting
